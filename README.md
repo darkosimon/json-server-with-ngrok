@@ -6,7 +6,7 @@ json server with ngrok tunnel
 ```
 > npm install
 > npm run db - (start json server)
-> npm run tunnel (start ngrok
+> npm run tunnel (start ngrok)
 ```
 
 
